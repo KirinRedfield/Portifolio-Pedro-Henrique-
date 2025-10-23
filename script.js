@@ -18,8 +18,8 @@ const PROJECTS = [
       type:'image', images:["assets/thumb9.jpg"]},
     
     {id:'p-5', title:'Vídeo Youtube 2', subtitle:'Vídeo curto para redes', category:'projects', 
-      type:'video', embedUrl:'https://www.youtube.com/embed/WWWWWWWWW?rel=0', // Substitua WWWWWWW
-      images:["assets/p2-1.jpg"], external:'https://exemplo.com/projeto5'},
+      type:'video', embedUrl:'https://www.youtube.com/embed/2_n7-NRo4I0?si=MHhIO1sZcin-xpfC', // Substitua WWWWWWW
+      images:["assets/thumb10.jpg","assets/timeline2.png" ] , external:'https://www.youtube.com/embed/2_n7-NRo4I0?si=MHhIO1sZcin-xpfC'},
     
     {id:'p-6', title:'Edit montagem pc', subtitle:'Vídeo no ritmo da musica', category:'motion', 
         type:'video', embedUrl:'https://www.youtube.com/embed/ren8FdI3i7M', // Substitua YYYYYYY
